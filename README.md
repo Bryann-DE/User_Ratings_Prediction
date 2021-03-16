@@ -4,6 +4,6 @@
 
 2)The books were segmented based on genre, author and year published
 
-3)The price distirbution for each genre was visualized
+3)The price distribution for each genre was visualized
 
 4)Finally the User ratings were predicted using Linear, Polynomial, Ridge Regression, Decision Tree, Gradient boost regressor and Elastic Net-Gridsearch CV
